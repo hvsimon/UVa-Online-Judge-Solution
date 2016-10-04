@@ -80,10 +80,10 @@ public class BeijingGuards1335 {
 
         for (int i = 2; i <= n; i++) {
             if (i % 2 != 0) {
-                right[i] = Math.min(rNum - right[i - 1], a[i]); //右邊剩餘格數 和 需求數比較，格數夠就全放，不夠就放滿
-                left[i] = a[i] - right[i]; //多餘的就放到左邊
+                right[i] = Math.min(rNum - right[i - 1], a[i]);
+                left[i] = a[i] - right[i];
             } else {
-                left[i] = Math.min(lNum - left[i - 1], a[i]); //同理
+                left[i] = Math.min(lNum - left[i - 1], a[i]);
                 right[i] = a[i] - left[i];
             }
         }
