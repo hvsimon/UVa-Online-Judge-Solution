@@ -12,8 +12,8 @@
 
 ## 使用語言
 
-+ Java
+Java
 
 ## 題目來源
 
-+ [UVa Online Judge](https://uva.onlinejudge.org/)
+[UVa Online Judge](https://uva.onlinejudge.org/)
