@@ -1,6 +1,6 @@
 # UVa Online Judge Solution
 
-這裡存放我自己寫的解題答案，可以搭配[我的部落格](http://hvsimon-lin.logdown.com/)觀看解題想法，歡迎任何想法交流或錯誤指證 :))
+這裡存放著一些 UVa 解題答案，可以搭配[我的部落格](http://hvsimon-lin.logdown.com/)觀看解題想法，歡迎任何想法交流或錯誤指證 :))
 
 ## 目前完成(部落格詳細說明連結)
 
