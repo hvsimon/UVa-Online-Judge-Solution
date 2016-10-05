@@ -8,7 +8,9 @@
 
 ## 預計完成
 
++ 167 - The Sultan's Successors
 + 686 - Goldbach's Conjecture
++ 12214 - Asseble
 
 ## 使用語言
 
