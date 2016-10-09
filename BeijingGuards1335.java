@@ -20,6 +20,11 @@ public class BeijingGuards1335 {
             for (i = 0; i < n; i++) {
                 a[i] = input.nextInt();
             }
+			
+			if(n == 1) {
+                 System.out.println(a[0]);
+                 continue;
+            }
 
             a[n] = a[0];
             maxNeighborAdd = a[0] + a[1];
