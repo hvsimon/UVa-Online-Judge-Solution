@@ -50,7 +50,7 @@ public class Goldbach'sConjecture686 {
             }
             int count = 0;
 
-            for (int i = L - 1; n - primeList.get(i) <= primeList.get(i); --i) {
+            for (int i = L - 1; i >= 0 && n - primeList.get(i) <= primeList.get(i); --i) {
                 if (isPrime[n - primeList.get(i)]) {
                     ++count;
                 }
